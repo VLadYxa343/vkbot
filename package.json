@@ -1,0 +1,19 @@
+{
+  "name": "untitled7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "chromedriver": "^79.0.0",
+    "request": "latest",
+    "selenium-webdriver": "^4.0.0-alpha.5",
+    "unixtime": "0.0.2",
+    "easyvk": "latest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
